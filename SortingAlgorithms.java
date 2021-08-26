@@ -2,16 +2,10 @@ import java.util.Arrays;
 
 /**
  * CET - CS Academic Level 3
- * <br>Declaration: I declare that this is my own original work and is free from Plagiarism
  * <br>This class implements methods that performs a variety of sorting algorithms
- * <br>Student Name: Younes Boutaleb
- * <br>Student Number: 041019068 
  * <br>Section #: 303
  * <br>Course: CST8130 - Data Structures
- * <br>Professor: James Mwangi PhD.
- * @author Younes Boutaleb.
  * @version 1.0
- * 
  */
 public class SortingAlgorithms {
 	
